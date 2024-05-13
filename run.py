@@ -1,4 +1,4 @@
-from test import simple_test
+from task import simple_test
 import json
 
 grade = dict()
